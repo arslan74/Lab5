@@ -1,9 +1,10 @@
 Package: shinyapp
 Type: Package
-Title: What the package does (short line)
+Title: Shinny Application
 Version: 1.0
 Date: 2020-09-23
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Authors@R: person("Syed Muhammad Arslan", "Haider", email = "arslan.sheerazi92@gmail.com",role = c("aut", "cre"))
+Description: This package creates a shiny application.
+License: GPL-2
+RoxygenNote: 7.1.0
+Encoding: UTF-8
